@@ -1,9 +1,4 @@
 # Fruity Dance Girl (VST3)
-<a href="https://github.com/luzotack-ux/Fruity-Dance-Girl-.vst3-all-daws/actions/runs/34743617829/artifacts/10312973781">
-  <img src="https://img.shields.io/badge/Download-Plugin-blue?style=for-the-badge" />
-</a>
-
-
 
 A "visual toy" VST3 effect plugin: drop it on your master channel in Bitwig,
 and a sprite floats above everything (the DAW *and* other apps), dancing in
@@ -11,6 +6,11 @@ time with your project's tempo and transport.
 
 Audio passes through completely untouched — it only reads tempo/playhead
 info from the host, it never processes the signal.
+
+
+<a href="https://github.com/luzotack-ux/Fruity-Dance-Girl-.vst3-all-daws/actions/runs/34743617829/artifacts/10312973781">
+  <img src="https://img.shields.io/badge/Download-Plugin-blue?style=for-the-badge" />
+</a>
 
 ## What's in this repo
 
